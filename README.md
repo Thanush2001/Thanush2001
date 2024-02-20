@@ -2,11 +2,6 @@
 
 
 
-
-
-
-
-
 <h1 align="center">Hi there! I'm Thanush Veerappan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
  <br> 
  
@@ -33,7 +28,11 @@
 
 - 📫 How to reach me *vthanush666@gmail.com*
 
-- [Download Resume]("C:\Users\vthan\Downloads\Thanush-Resume.pdf")
+- ⚓ <a href="https://drive.google.com/file/d/13LavDVlCcim4C6TIce06r3DVrmJGDAqu/view?usp=drivesdk" download>
+  <button>Download Resume</button>
+</a>
+
+
 
 
 <br>
