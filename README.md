@@ -33,6 +33,9 @@
 
 - 📫 How to reach me *vthanush666@gmail.com*
 
+- [Download Resume]("C:\Users\vthan\Downloads\Thanush-Resume.pdf")
+
+
 <br>
 <br>
 
