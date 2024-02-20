@@ -58,6 +58,8 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" />  -->
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" />
   <img src="https://img.shields.io/badge/php-5E5C5C?style=for-the-badge&logo=php&logoColor=white" alt="php" />
+ <img src="https://img.shields.io/badge/java-5E5C5C?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Python-5E5C5C?style=for-the-badge&logo=Python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styles-components" /> 
 </p>
