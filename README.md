@@ -13,7 +13,7 @@
 <img   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
        height="200px" width="auto" align="right"
       />
-
+      
 - 🙋‍♂️ All about me is at **[My Website](https://thanush2001.github.io/My_Portfolio_Profile/index.html)**
 
 - 💓 I love designing websites and coding.
@@ -36,6 +36,7 @@
 <br>
 <h2 align="center"><i>Tech Stack </i></h2>
 <p align="center">
+ 
 <!--   <a >
     <img src="https://skillicons.dev/icons?i=html,css,js,react,java,redux,bootstrap,express,jquery,materialui,mongodb,nodejs," />
   </a> -->
