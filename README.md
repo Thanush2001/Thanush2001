@@ -10,8 +10,9 @@
 
 ### 👨🏻‍💻 About Me:
 
-<img   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-       height="200px" width="auto" align="right" />
+<!-- <img   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+       height="200px" width="auto" align="right" /> -->
+  <img  src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47l06umvnncegq4h2aklpuxyqjt8c69rd96evrta7e&rid=giphy.gif&ct=g" height="280px" align="right" />
       
 - 🙋‍♂️ All about me is at **[My Website](https://thanush2001.github.io/My_Portfolio_Profile/index.html)**
 
@@ -42,20 +43,24 @@
 <br>
 <h2 align="center"><i>Tech Stack </i></h2>
 <p align="center">
+  <a >
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,redux,bootstrap,express,jquery,materialui,mongodb,nodejs," />
+  </a>
+</p>
  
 <!--   <a>
     <img src="https://skillicons.dev/icons?i=html,css,js,react,java,redux,bootstrap,express,jquery,materialui,mongodb,nodejs," />
-  </a> -->
+  </a> 
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/>
-  <!-- <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
+   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
   <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="chakra-ui" />
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs" /> 
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" />  -->
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" />  
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" />
   <img src="https://img.shields.io/badge/php-5E5C5C?style=for-the-badge&logo=php&logoColor=white" alt="php" />
  <img src="https://img.shields.io/badge/java-5E5C5C?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -68,9 +73,13 @@
 <!-- <img src="" alt="" /> -->
 <h2 align="center"><i>Tools | Use</i></h2>
 <p align="center">
+  <a >
+    <img src="https://skillicons.dev/icons?i=bash,codepen,firebase,git,github,heroku,netlify,powershell,vscode,visualstudio," />
+  </a>
+</p>
 <!--   <a >
     <img src="https://skillicons.dev/icons?i=bash,codepen,firebase,git,github,heroku,netlify,powershell,vscode,visualstudio," />
-  </a> -->
+  </a> 
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
   <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" />
@@ -87,7 +96,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" alt="miro" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion" />
-</p>
+</p>-->
 
 <h2 align="center"><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h2>
 
@@ -119,9 +128,7 @@
  Show some ❤️ by starring some of the repositories!
 </h3>
 <br>
-<!--
     <h3 align="center"> 
   Visitor count <br><br>
   <img  src="https://profile-counter.glitch.me/Thanush2001/count.svg" />
 </h3>
--->
