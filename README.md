@@ -15,9 +15,15 @@
       
 - 🙋‍♂️ All about me is at **[My Website](https://thanush2001.github.io/My_Portfolio_Profile/index.html)**
 
-- 💓 I love designing websites and coding.
+- 🔭 I’m currently working on `Something Intresting`.
 
-- 👨‍💻 Interests - Web 3.0
+- 🌱 I’m currently learning `MERN Stack`
+
+- 👯 I’m looking to collaborate for `Projects`
+
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned 
+
+- 💓 I love designing websites and coding.
 
 - ⚡ Fun fact _Time, Tide and JavaScript waits for none._
 
