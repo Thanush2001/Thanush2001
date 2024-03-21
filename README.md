@@ -12,7 +12,7 @@
 
 <!-- <img   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
        height="200px" width="auto" align="right" /> -->
-  <img  src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47l06umvnncegq4h2aklpuxyqjt8c69rd96evrta7e&rid=giphy.gif&ct=g" height="280px" align="right" />
+  <img  src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47l06umvnncegq4h2aklpuxyqjt8c69rd96evrta7e&rid=giphy.gif&ct=g" height="280px" align="right"  />
       
 - 🙋‍♂️ All about me is at **[My Website](https://thanush2001.github.io/My_Portfolio_Profile/index.html)**
 
