@@ -43,7 +43,8 @@
 <h2 align="center"><i>Tech Stack </i></h2>
 <p align="center">
   <a >
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,redux,bootstrap,express,jquery,materialui,mongodb,nodejs," />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,java,py,mysql,php,nodejs" />
+   <!-- redux,bootstrap,express,jquery,materialui,mongodb -->
   </a>
 </p>
  
@@ -72,8 +73,8 @@
 <!-- <img src="" alt="" /> -->
 <h2 align="center"><i>Tools | Use</i></h2>
 <p align="center">
-  <a >
-    <img src="https://skillicons.dev/icons?i=bash,codepen,firebase,git,github,heroku,netlify,powershell,vscode,visualstudio," />
+  <a>
+    <img src="https://skillicons.dev/icons?i=bash,codepen,firebase,git,github,netlify,powershell,anaconda,vscode,visualstudio,npm,raspberrypi" />
   </a>
 </p>
 <!--   <a >
