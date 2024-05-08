@@ -29,7 +29,7 @@
 
 - 📫 How to reach me *vthanush666@gmail.com*
 
-- ⚓ <a href="https://drive.google.com/file/d/13LavDVlCcim4C6TIce06r3DVrmJGDAqu/view?usp=drivesdk" download>
+- ⚓ <a href="https://drive.google.com/drive/u/0/folders/1Flvn0U_X4O-Ri_cxOPG6jQMlPjr-oTww" download>
    <button>Download Resume</button>
 </a>
 
