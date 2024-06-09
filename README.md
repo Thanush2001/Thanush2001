@@ -32,7 +32,6 @@
 - ⚓ <a href="https://drive.google.com/file/d/1hRU5pZeZyYbqoXCdU7WB_v_yJtUFxdUi/view?usp=drive_link" download>
    <button>Download Resume</button>
 </a>
-
 <br>
 <br>
  <h4 align="center">"Programming is not a science. Programming is a craft" - <i>Richard Stallman</i></h4>
