@@ -40,7 +40,7 @@
 <p align="center">
   <a >
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,java,py,mysql,php,nodejs" />
-   <!-- redux,bootstrap,express,jquery,materialui,mongodb -->
+   <!-- redux,bootstrap,express,jquery,materialui,mongodb  -->
   </a>
 </p>
 
