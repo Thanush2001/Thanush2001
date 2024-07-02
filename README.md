@@ -36,7 +36,7 @@
 <br>
  <h4 align="center">"Programming is not a science. Programming is a craft" - <i>Richard Stallman</i></h4>
 <br>
-<h2 align="center"><i>Tech Stack </i> </h2>
+<h2 align="center"><i>Tech Stack </i></h2>
 <p align="center">
   <a >
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,java,py,mysql,php,nodejs" />
