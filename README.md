@@ -39,7 +39,7 @@
 <h2 align="center"><i>Tech Stack </i></h2>
 <p align="center">
   <a >
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,java,py,mysql,php,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,java,py,mysql,php,nodejs"/>
    <!-- redux,bootstrap,express,jquery,materialui,mongodb  -->
   </a>
 </p>
