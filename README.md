@@ -107,7 +107,6 @@
 </p>
 <h2>📊  Github Stats</h2>
 <br/>
-
 <div>
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Thanush2001&show_icons=true&theme=midnight-purple" />
   <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanush2001&layout=compact&theme=midnight-purple" />
