@@ -66,7 +66,7 @@
 <img src="https://img.shields.io/badge/SQL-5E5C5C?style=for-the-badge&logo=SQL&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styles-components" /> 
-</p>
+</p> 
 <!-- <img src="" alt="" /> -->
 <h2 align="center"><i>Tools | Use</i></h2>
 <p align="center">
