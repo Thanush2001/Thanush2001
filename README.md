@@ -33,6 +33,7 @@
    <button>Download Resume</button>
 </a>
 <br>
+
 <br>
  <h4 align="center">"Programming is not a science. Programming is a craft" - <i>Richard Stallman</i></h4>
 <br>
